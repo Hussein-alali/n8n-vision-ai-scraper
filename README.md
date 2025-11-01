@@ -2,6 +2,7 @@
 
 This workflow automates product data extraction using Google Gemini, ScrapingBee, and Google Sheets.
 
+![Vision AI Scraper Workflow](/workflow-diagram.png)
 
 ## Overview
 - Takes product URLs from Google Sheets.
